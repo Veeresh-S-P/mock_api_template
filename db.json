@@ -4,60 +4,90 @@
         "id": 1,
         "name": "Gertrudis Tatterton",
         "age": 18,
+        "palce":"benglore",
+        "batch_name":"WEB-24",
+        "profession":"FSD",
         "email": "gtatterton0@ehow.com"
       },
       {
         "id": 2,
         "name": "Gail Newbatt",
         "age": 53,
+        "palce":"hubli",
+        "batch_name":"WEB-21",
+        "profession":"Frontend",
         "email": "gnewbatt1@un.org"
       },
       {
         "id": 3,
         "name": "Walliw Wilstead",
         "age": 49,
+        "palce":"benglore",
+        "batch_name":"WEB-21",
+        "profession":"Frontend",
         "email": "wwilstead2@tripadvisor.com"
       },
       {
         "id": 4,
         "name": "Abran Proback",
         "age": 29,
+        "palce":"benglore",
+        "batch_name":"WEB-21",
+        "profession":"FSD",
         "email": "aproback3@theglobeandmail.com"
       },
       {
         "id": 5,
         "name": "Roda Chappelow",
         "age": 31,
+        "palce":"chennai",
+        "batch_name":"WEB-21",
+        "profession":"Frontend",
         "email": "rchappelow4@oaic.gov.au"
       },
       {
         "id": 6,
         "name": "Karney Wylie",
         "age": 22,
+        "palce":"chennai",
+        "batch_name":"WEB-22",
+        "profession":"Student",
         "email": "kwylie5@miitbeian.gov.cn"
       },
       {
         "id": 7,
         "name": "Cammi Pimbley",
         "age": 63,
+        "palce":"manglore",
+        "batch_name":"WEB-22",
+        "profession":"Student",
         "email": "cpimbley6@nyu.edu"
       },
       {
         "id": 8,
         "name": "Gavra Manning",
         "age": 43,
+        "palce":"manglore",
+        "batch_name":"WEB-22",
+        "profession":"Student",
         "email": "gmanning7@lycos.com"
       },
       {
         "id": 9,
         "name": "Zachary Seward",
         "age": 45,
+        "palce":"hubli",
+        "batch_name":"WEB-23",
+        "profession":"Backend",
         "email": "zseward8@oracle.com"
       },
       {
         "id": 10,
         "name": "Chucho Norssister",
         "age": 20,
+        "palce":"hubli",
+        "batch_name":"WEB-23",
+        "profession":"Backend",
         "email": "cnorssister9@mayoclinic.com"
       }
     ]
